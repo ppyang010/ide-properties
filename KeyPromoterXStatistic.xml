@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1530</Count>
+          <Count>1539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -102,7 +102,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>135</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>962</Count>
+          <Count>966</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SpringDemoApplication'</Description>
-          <Count>53</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestController'">
@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5340</Count>
+          <Count>5343</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -350,7 +350,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -358,7 +358,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -438,7 +438,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>2625</Count>
+          <Count>2626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -510,7 +510,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -558,7 +558,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>236</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -854,7 +854,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SpringDemoApplication'</Description>
-          <Count>175</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpringdemoApplication'">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3606</Count>
+          <Count>3617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1343</Count>
+          <Count>1352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -1438,7 +1438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemoApplication'</Description>
-          <Count>156</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringdemoApplication'">
