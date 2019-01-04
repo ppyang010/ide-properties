@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5473</Count>
+          <Count>5474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1638,7 +1638,7 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">

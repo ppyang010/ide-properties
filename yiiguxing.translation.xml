@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallel" />
       <item value="update" />
       <item value="Distrbution" />
       <item value="Distribution" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
