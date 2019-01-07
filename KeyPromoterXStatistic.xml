@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>1724</Count>
+          <Count>1743</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -30,7 +30,7 @@
           <IdeaActionID>TypeHierarchy</IdeaActionID>
           <ShortCut>'⌃H'</ShortCut>
           <Description>Browse Type Hierarchy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5540</Count>
+          <Count>5557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -350,7 +350,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -550,7 +550,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>521</Count>
+          <Count>522</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
