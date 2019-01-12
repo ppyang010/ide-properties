@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2044</Count>
+          <Count>2046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -79,6 +79,14 @@
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare Files</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -142,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>978</Count>
+          <Count>979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -297,6 +305,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'edge-app-8101'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'edge-app-8101'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'eureka0'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -342,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5868</Count>
+          <Count>5873</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -975,6 +991,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'consumer'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'edge-app-8101'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'edge-app-8101'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'eureka0'">
