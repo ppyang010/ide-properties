@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2112</Count>
+          <Count>2114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5932</Count>
+          <Count>5935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'course-8001'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'edge-app-8101'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
