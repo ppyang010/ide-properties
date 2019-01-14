@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving" />
+      <item value="via" />
       <item value="not specified and no embedded datasource could be configured." />
       <item value="erasure" />
       <item value="erasue" />
@@ -26,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
