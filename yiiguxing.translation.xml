@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SNAPSHOT" />
+      <item value="https://mall.dxy.cn/sso/login/aHR0cDovL21hbGwuZHh5LmNuL2xvZ2luL2FIUjBjSE02THk5dFlXeHNMbVI0ZVM1amJpOGpMMlJsYzJ0MGIzQXZiV0ZwYmc=" />
       <item value="过期时间" />
       <item value="Flipping" />
       <item value="Resolving" />
@@ -30,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
