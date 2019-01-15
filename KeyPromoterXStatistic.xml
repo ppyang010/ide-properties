@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1016</Count>
+          <Count>1018</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -278,7 +278,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>281</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cms'">
@@ -390,7 +390,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>15</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>547</Count>
+          <Count>548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1166,7 +1166,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3745</Count>
+          <Count>3754</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>1329</Count>
+          <Count>1336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cms [install]'">
