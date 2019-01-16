@@ -398,7 +398,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3910</Count>
+          <Count>3911</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1518</Count>
+          <Count>1519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -1614,7 +1614,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>1348</Count>
+          <Count>1351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cms [install]'">
