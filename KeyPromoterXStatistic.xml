@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>2650</Count>
+          <Count>2651</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
