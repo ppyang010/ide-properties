@@ -1246,7 +1246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4303</Count>
+          <Count>4309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1962</Count>
+          <Count>1963</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
