@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3037</Count>
+          <Count>3051</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1229</Count>
+          <Count>1230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -278,7 +278,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>295</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cms'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6658</Count>
+          <Count>6683</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -446,7 +446,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌘]' or '⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -494,7 +494,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3182</Count>
+          <Count>3187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>574</Count>
+          <Count>575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unnamed'</Description>
-          <Count>578</Count>
+          <Count>579</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cms [install]'">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4453</Count>
+          <Count>4462</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>1991</Count>
+          <Count>1992</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
