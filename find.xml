@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*。</mask>
       <mask>*.xnl</mask>
       <mask>*</mask>
       <mask>*.v m</mask>
@@ -25,7 +24,6 @@
       <mask>*.XM</mask>
       <mask>*.X</mask>
       <mask>*.j'a</mask>
-      <mask>*.xm</mask>
       <mask>*.vc</mask>
       <mask>*.v</mask>
       <mask>*.vm</mask>
@@ -33,6 +31,9 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.xm</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
