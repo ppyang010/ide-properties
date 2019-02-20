@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3574</Count>
+          <Count>3576</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7143</Count>
+          <Count>7144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>616</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
