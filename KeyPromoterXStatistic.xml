@@ -22,7 +22,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>3930</Count>
+          <Count>3931</Count>
         </Item>
       </Statistic>
       <Statistic Action="Browse Type Hierarchy">
@@ -214,7 +214,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7407</Count>
+          <Count>7408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4937</Count>
+          <Count>4939</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>134</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LimitTest'">
