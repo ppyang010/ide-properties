@@ -17,14 +17,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Back">
-        <Item>
-          <IdeaActionID>Back</IdeaActionID>
-          <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
-          <Description>Back</Description>
-          <Count>4067</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Browse Type Hierarchy">
         <Item>
           <IdeaActionID>TypeHierarchy</IdeaActionID>
@@ -214,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -406,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7535</Count>
+          <Count>7558</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -510,7 +502,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3549</Count>
+          <Count>3556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1278,7 +1270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4945</Count>
+          <Count>4947</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2083,6 +2075,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>4086</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
