@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -502,7 +502,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3568</Count>
+          <Count>3572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4947</Count>
+          <Count>4948</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>152</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LimitTest'">
