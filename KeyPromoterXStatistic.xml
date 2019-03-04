@@ -398,7 +398,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7617</Count>
+          <Count>7619</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1479,6 +1479,14 @@
           <ShortCut>'⌘''</ShortCut>
           <Description>Show Grid</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Image Thumbnails">
+        <Item>
+          <IdeaActionID>Images.ShowThumbnails</IdeaActionID>
+          <ShortCut>'⇧⌘T'</ShortCut>
+          <Description>Show Image Thumbnails</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
