@@ -1606,7 +1606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>162</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LimitTest'">
