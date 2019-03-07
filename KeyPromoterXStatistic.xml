@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1482</Count>
+          <Count>1483</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -502,7 +502,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3621</Count>
+          <Count>3622</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
