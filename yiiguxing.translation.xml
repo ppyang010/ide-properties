@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
       <item value="最近活动" />
       <item value="推荐" />
       <item value="直播人数" />
@@ -50,11 +51,10 @@
       <item value="incorrect" />
       <item value="encode" />
       <item value="available" />
-      <item value="rerun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
       </map>
     </option>
