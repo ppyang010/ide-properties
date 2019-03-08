@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参加人数" />
       <item value="check the manual that corresponds" />
       <item value="provided" />
       <item value="最近活动" />
@@ -50,7 +51,6 @@
       <item value="Distrbution" />
       <item value="Distribution" />
       <item value="incorrect" />
-      <item value="encode" />
     </histories>
     <option name="languageScores">
       <map>
