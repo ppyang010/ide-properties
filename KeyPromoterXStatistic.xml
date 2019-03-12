@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1504</Count>
+          <Count>1505</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -894,7 +894,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>225</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'LimitTest'">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>178</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LimitTest'">
