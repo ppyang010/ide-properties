@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Edge-8100'">
@@ -271,6 +271,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
           <Count>308</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WebServicesController'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'WebServicesController'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cms'">
@@ -398,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7900</Count>
+          <Count>7916</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -502,7 +510,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3744</Count>
+          <Count>3748</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -622,7 +630,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>666</Count>
+          <Count>667</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1401,6 +1409,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WebServicesController'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'WebServicesController'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'cms'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1542,7 +1558,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2287</Count>
+          <Count>2291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
