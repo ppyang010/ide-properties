@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7940</Count>
+          <Count>7947</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -630,7 +630,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>668</Count>
+          <Count>669</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemoApplication'</Description>
-          <Count>168</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringdemoApplication'">
