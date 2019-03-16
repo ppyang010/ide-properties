@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7956</Count>
+          <Count>7968</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -486,7 +486,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌘]' or '⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -510,7 +510,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>3754</Count>
+          <Count>3759</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
