@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interruptibly" />
       <item value="delete" />
       <item value="手工" />
       <item value="超时关闭" />
@@ -50,12 +51,11 @@
       <item value="https://mall.dxy.cn/sso/login/aHR0cDovL21hbGwuZHh5LmNuL2xvZ2luL2FIUjBjSE02THk5dFlXeHNMbVI0ZVM1amJpOGpMMlJsYzJ0MGIzQXZiV0ZwYmc=" />
       <item value="过期时间" />
       <item value="Flipping" />
-      <item value="Resolving" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
