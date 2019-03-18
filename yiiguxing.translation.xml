@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="超时关闭" />
       <item value="poll" />
       <item value="coin" />
       <item value="capacity" />
@@ -50,7 +51,6 @@
       <item value="Resolving" />
       <item value="via" />
       <item value="not specified and no embedded datasource could be configured." />
-      <item value="erasure" />
     </histories>
     <option name="languageScores">
       <map>
