@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="poll" />
+      <item value="coin" />
       <item value="capacity" />
       <item value="Cosumer" />
       <item value="简介" />
@@ -49,13 +51,11 @@
       <item value="via" />
       <item value="not specified and no embedded datasource could be configured." />
       <item value="erasure" />
-      <item value="erasue" />
-      <item value="第一" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
