@@ -321,6 +321,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'eureka-7700'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'eureka-7700'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'eureka-server'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -366,7 +374,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'producer1'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'proxy-8300'">
@@ -406,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8021</Count>
+          <Count>8025</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1654,7 +1662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application (1)'</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -1974,7 +1982,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>139</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
