@@ -1,0 +1,3 @@
+<templateSet group="MyGroup">
+  <template name="tolist" value="Collectors.toList()" description="tolist" toReformat="false" toShortenFQNames="true" />
+</templateSet>

@@ -614,7 +614,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>114</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Project Window">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>271</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
