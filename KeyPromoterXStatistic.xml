@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8090</Count>
+          <Count>8092</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>193</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GidStarterApplication'">
