@@ -334,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'eureka-7700'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'eureka-server'">
@@ -369,6 +369,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'producer-7710'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'producer-7710'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'producer0'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'producer1'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'proxy-8300'">
@@ -422,7 +430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8146</Count>
+          <Count>8147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1366,7 +1374,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5032</Count>
+          <Count>5034</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1967,6 +1975,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'openclass2'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'producer-7710'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'producer-7710'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'producer0'">
