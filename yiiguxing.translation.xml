@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Underway" />
       <item value="from" />
       <item value="Interruptibly" />
       <item value="delete" />
@@ -24,7 +25,6 @@
       <item value="position" />
       <item value="postion" />
       <item value="accompanying" />
-      <item value="Underway" />
       <item value="协议" />
       <item value="lecturer" />
       <item value="通用" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
