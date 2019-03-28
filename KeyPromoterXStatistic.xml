@@ -438,7 +438,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8410</Count>
+          <Count>8411</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>284</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
