@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分析" />
+      <item value="打点" />
       <item value="移除权益" />
       <item value="purchased" />
       <item value="移除" />
@@ -49,8 +51,6 @@
       <item value="channel" />
       <item value="渠道" />
       <item value="build" />
-      <item value="领取" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
