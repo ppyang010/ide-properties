@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8589</Count>
+          <Count>8590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -550,7 +550,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4259</Count>
+          <Count>4261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5149</Count>
+          <Count>5150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1974,7 +1974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'edge-app-8101'</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'eureka-server'">
