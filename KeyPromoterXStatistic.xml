@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1560</Count>
+          <Count>1567</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SpringDemoApplication'</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestController'">
@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8670</Count>
+          <Count>8675</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SpringDemoApplication'</Description>
-          <Count>190</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpringdemoApplication'">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5154</Count>
+          <Count>5158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2337</Count>
+          <Count>2338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -1862,7 +1862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemoApplication'</Description>
-          <Count>175</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringdemoApplication'">
@@ -2246,7 +2246,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>128</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
