@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="示例" />
       <item value="awareness of Spring-managed transactions. This usually needs to be switched * on explicitly through the {@link #setTransactionAware} bean property." />
       <item value="Base class for CacheManager implementations that want to support built-in" />
       <item value="Insensitive" />
@@ -50,7 +51,6 @@
       <item value="expecting" />
       <item value="签到" />
       <item value="params" />
-      <item value="param" />
     </histories>
     <option name="languageScores">
       <map>
