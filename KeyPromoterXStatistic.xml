@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1567</Count>
+          <Count>1568</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8723</Count>
+          <Count>8727</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SpringDemoApplication'</Description>
-          <Count>196</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SpringdemoApplication'">
