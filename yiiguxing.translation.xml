@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sub" />
       <item value="全局" />
       <item value="queried" />
       <item value="If the specified key is not already associated * with a value, associate it with the given value. * This is equivalent to" />
@@ -50,11 +51,10 @@
       <item value="lecturer" />
       <item value="通用" />
       <item value="primary" />
-      <item value="清单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="54" />
         <entry key="ENGLISH" value="54" />
       </map>
     </option>
