@@ -550,7 +550,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4290</Count>
+          <Count>4291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
