@@ -1006,7 +1006,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>265</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'user-8002'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5195</Count>
+          <Count>5202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2348</Count>
+          <Count>2350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
