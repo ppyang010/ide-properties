@@ -462,7 +462,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'user-8002'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>264</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
