@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suitable" />
       <item value="leniency" />
       <item value="sub" />
       <item value="全局" />
@@ -50,12 +51,11 @@
       <item value="accompanying" />
       <item value="协议" />
       <item value="lecturer" />
-      <item value="通用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
