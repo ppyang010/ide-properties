@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limit" />
+      <item value="limit Amount" />
+      <item value="limitAmount" />
       <item value="门槛" />
       <item value="使用门槛" />
       <item value="金额门槛" />
@@ -48,13 +51,10 @@
       <item value="最近活动" />
       <item value="推荐" />
       <item value="直播人数" />
-      <item value="排序" />
-      <item value="order" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="56" />
       </map>
     </option>
