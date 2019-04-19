@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1617</Count>
+          <Count>1619</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -470,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9067</Count>
+          <Count>9075</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4472</Count>
+          <Count>4480</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>274</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
