@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="新手" />
+      <item value="礼物" />
       <item value="新用户" />
+      <item value="新手" />
       <item value="渠道" />
       <item value="enable" />
       <item value="开关" />
@@ -50,7 +51,6 @@
       <item value="poll" />
       <item value="coin" />
       <item value="capacity" />
-      <item value="Cosumer" />
     </histories>
     <option name="languageScores">
       <map>
