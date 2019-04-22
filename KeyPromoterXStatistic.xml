@@ -470,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9095</Count>
+          <Count>9107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -550,7 +550,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌘]' or '⌥⌘→' or 'Button5 Click'</ShortCut>
           <Description>Forward</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
@@ -582,7 +582,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4488</Count>
+          <Count>4492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
