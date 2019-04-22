@@ -470,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9135</Count>
+          <Count>9136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1742,7 +1742,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
