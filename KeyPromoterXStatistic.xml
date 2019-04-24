@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>308</Count>
+          <Count>309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebServicesController'">
@@ -1750,7 +1750,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
