@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="lastLanguages">
+      <language-pair target="CHINESE" />
+    </option>
     <histories>
+      <item value="impl Spec" />
       <item value="expect" />
       <item value="Fair" />
       <item value="Enumerable" />
@@ -50,12 +54,12 @@
       <item value="移除" />
       <item value="Original" />
       <item value="plain" />
-      <item value="Underway" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
   </component>
