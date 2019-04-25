@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="SIGNAL" />
       <item value="interrupted" />
       <item value="acquire" />
       <item value="Performs" />
@@ -53,12 +54,11 @@
       <item value="分析" />
       <item value="打点" />
       <item value="移除权益" />
-      <item value="purchased" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
