@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect" />
+      <item value="Fair" />
       <item value="Enumerable" />
       <item value="unit" />
       <item value="provider" />
@@ -49,13 +51,11 @@
       <item value="Original" />
       <item value="plain" />
       <item value="Underway" />
-      <item value="from" />
-      <item value="Interruptibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
