@@ -470,7 +470,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9280</Count>
+          <Count>9283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -486,7 +486,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unnamed'</Description>
-          <Count>610</Count>
+          <Count>611</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cms [install]'">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5300</Count>
+          <Count>5302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Dependencies...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
-          <Count>1434</Count>
+          <Count>1437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cms [install]'">
