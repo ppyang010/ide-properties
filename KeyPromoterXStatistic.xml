@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1639</Count>
+          <Count>1640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -311,6 +311,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'WebServicesController'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'bigtest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'bigtest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'cms'">
@@ -582,7 +590,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4721</Count>
+          <Count>4738</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1257,6 +1265,14 @@
           <Count>611</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'bigtest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'bigtest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'cms [install]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1486,7 +1502,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5318</Count>
+          <Count>5326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1782,7 +1798,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2411</Count>
+          <Count>2413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -1999,6 +2015,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
           <Count>1440</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'bigtest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'bigtest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'cms [install]'">
