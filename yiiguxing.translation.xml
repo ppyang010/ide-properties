@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="hook" />
       <item value="successor" />
       <item value="first indicate they need a signal" />
       <item value="To avoid races" />
@@ -53,12 +54,11 @@
       <item value="Insensitive" />
       <item value="prepare" />
       <item value="跨域" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
