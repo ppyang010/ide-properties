@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="0proxy" type="PLAIN_TEXT" />
       <mapping pattern="taginit" type="PLAIN_TEXT" />
+      <mapping ext="http" type="PLAIN_TEXT" />
       <mapping pattern="1" type="Sass" />
     </extensionMap>
   </component>
