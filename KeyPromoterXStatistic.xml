@@ -281,6 +281,14 @@
           <Count>62</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SyncProducer'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SyncProducer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TestController'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9397</Count>
+          <Count>9399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -694,7 +702,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Project Window">
@@ -718,7 +726,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>260</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1199,6 +1207,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SpringdemoApplication'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SyncProducer'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SyncProducer'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TFinal'">
@@ -1863,6 +1879,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
           <Count>68</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Consumer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Consumer'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Edge-8100'">
