@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1642</Count>
+          <Count>1643</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Consumer'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CouponManage'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SyncProducer'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TFinal'">
@@ -2007,6 +2007,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringdemoApplication'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SyncProducer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SyncProducer'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TFinal'">
