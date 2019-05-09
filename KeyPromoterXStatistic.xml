@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1649</Count>
+          <Count>1650</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9461</Count>
+          <Count>9471</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -598,7 +598,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>4890</Count>
+          <Count>4893</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>290</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1902,7 +1902,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>261</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GidStarterApplication'">
