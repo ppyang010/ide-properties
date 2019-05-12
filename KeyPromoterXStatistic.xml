@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9550</Count>
+          <Count>9551</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -726,7 +726,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>265</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
