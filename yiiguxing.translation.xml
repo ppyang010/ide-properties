@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="不需要处理" />
       <item value="违规订单" />
       <item value="specifying" />
       <item value="synchronization" />
@@ -53,7 +54,6 @@
       <item value="If the specified key is not already associated * with a value, associate it with the given value. * This is equivalent to" />
       <item value="If the specified key is not already associated" />
       <item value="Absent" />
-      <item value="Perform an actual lookup in the underlying store." />
     </histories>
     <option name="languageScores">
       <map>
