@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>311</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebServicesController'">
@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9553</Count>
+          <Count>9554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
