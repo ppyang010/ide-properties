@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="manual" />
       <item value="remark" />
       <item value="自定义商品" />
       <item value="自定义" />
@@ -53,11 +54,10 @@
       <item value="limit Amount" />
       <item value="limitAmount" />
       <item value="门槛" />
-      <item value="使用门槛" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="78" />
         <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
