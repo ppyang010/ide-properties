@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1697</Count>
+          <Count>1700</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Activity-8000'</Description>
-          <Count>56</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App (1)'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'todman-8102'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tomcat 7'">
@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9770</Count>
+          <Count>9778</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -598,7 +598,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5065</Count>
+          <Count>5068</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>144</Count>
+          <Count>145</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
@@ -1862,7 +1862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Activity-8000'</Description>
-          <Count>140</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'App'">
@@ -2230,7 +2230,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>104</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
