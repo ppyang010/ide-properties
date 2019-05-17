@@ -4,8 +4,9 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
-      <item value="任务" />
+      <item value="disruptor" />
       <item value="robot" />
+      <item value="任务" />
       <item value="roboot" />
       <item value="roboor" />
       <item value="avater" />
@@ -53,12 +54,11 @@
       <item value="渠道" />
       <item value="enable" />
       <item value="开关" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
