@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -598,7 +598,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5212</Count>
+          <Count>5215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
