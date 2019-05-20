@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="blows up" />
       <item value="provided" />
       <item value="disruptor" />
       <item value="robot" />
@@ -53,12 +54,11 @@
       <item value="新用户" />
       <item value="新手" />
       <item value="渠道" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
