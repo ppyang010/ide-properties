@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="剩余" />
       <item value="blows up" />
       <item value="provided" />
       <item value="disruptor" />
@@ -20,7 +21,6 @@
       <item value="自定义" />
       <item value="custom" />
       <item value="Remaining" />
-      <item value="剩余" />
       <item value="剩余库存" />
       <item value="折扣" />
       <item value="备注" />
