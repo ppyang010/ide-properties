@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1716</Count>
+          <Count>1717</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Activity-8000'</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App (1)'">
@@ -462,7 +462,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'proxy-8300'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'todman-8102'">
@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10018</Count>
+          <Count>10024</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'proxy-8300'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'start'">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>154</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5410</Count>
+          <Count>5416</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2457</Count>
+          <Count>2460</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
