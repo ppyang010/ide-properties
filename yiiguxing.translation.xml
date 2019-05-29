@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="内部" />
       <item value="applies" />
       <item value="Target" />
       <item value="metadata" />
@@ -53,7 +54,6 @@
       <item value="Performs" />
       <item value="impl Spec" />
       <item value="expect" />
-      <item value="Fair" />
     </histories>
     <option name="languageScores">
       <map>
