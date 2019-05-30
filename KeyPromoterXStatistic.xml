@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1746</Count>
+          <Count>1747</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10469</Count>
+          <Count>10470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -606,7 +606,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5596</Count>
+          <Count>5598</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>162</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5495</Count>
+          <Count>5501</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>121</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
