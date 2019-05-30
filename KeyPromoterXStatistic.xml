@@ -54,7 +54,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1744</Count>
+          <Count>1746</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'OpenclassMsGatewayApplication'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringDemo-8000'">
@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10455</Count>
+          <Count>10463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -510,7 +510,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>71</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -606,7 +606,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5572</Count>
+          <Count>5587</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5484</Count>
+          <Count>5491</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1806,7 +1806,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -1838,7 +1838,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2546</Count>
+          <Count>2562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -1990,7 +1990,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OpenclassMsGatewayApplication'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueueProducerConsumerDemo'">

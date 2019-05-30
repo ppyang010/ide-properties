@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="预先" />
       <item value="内部" />
       <item value="applies" />
       <item value="Target" />
@@ -53,7 +54,6 @@
       <item value="acquire" />
       <item value="Performs" />
       <item value="impl Spec" />
-      <item value="expect" />
     </histories>
     <option name="languageScores">
       <map>
