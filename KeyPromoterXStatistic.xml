@@ -502,7 +502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10544</Count>
+          <Count>10546</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5506</Count>
+          <Count>5510</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2584</Count>
+          <Count>2598</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2262,7 +2262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>125</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
