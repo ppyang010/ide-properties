@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1757</Count>
+          <Count>1759</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10574</Count>
+          <Count>10579</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -534,7 +534,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>78</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -630,7 +630,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5719</Count>
+          <Count>5727</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5522</Count>
+          <Count>5525</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1878,7 +1878,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2610</Count>
+          <Count>2615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
