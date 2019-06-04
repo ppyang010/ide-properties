@@ -494,7 +494,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'todman-8102'</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tomcat 7'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10661</Count>
+          <Count>10663</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -630,7 +630,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5789</Count>
+          <Count>5794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -2310,7 +2310,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>131</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
