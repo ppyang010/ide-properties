@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1762</Count>
+          <Count>1765</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -494,7 +494,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'todman-8102'</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'tomcat 7'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10639</Count>
+          <Count>10649</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -630,7 +630,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>5776</Count>
+          <Count>5782</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>164</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5529</Count>
+          <Count>5535</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1598,7 +1598,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '7-2'">
@@ -1751,6 +1751,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'openclass [package]'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'todman-8102'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'todman-8102'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -2294,7 +2302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>127</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
@@ -2358,7 +2366,7 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
-          <Count>75</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
