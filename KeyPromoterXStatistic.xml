@@ -1921,6 +1921,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '7200'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '7200'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Activity-8000'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
