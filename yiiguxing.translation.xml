@@ -4,6 +4,8 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="data" />
+      <item value="journal" />
       <item value="当前" />
       <item value="确认收货" />
       <item value="instead" />
@@ -52,12 +54,10 @@
       <item value="购买" />
       <item value="订购" />
       <item value="hook" />
-      <item value="successor" />
-      <item value="first indicate they need a signal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
