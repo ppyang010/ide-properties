@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1791</Count>
+          <Count>1795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -366,7 +366,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'cms'</Description>
-          <Count>34</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'config-server'">
@@ -518,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11018</Count>
+          <Count>11021</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -526,7 +526,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>769</Count>
+          <Count>770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -846,6 +846,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Module 'springdemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...GridController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...GridController.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1382,7 +1390,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'cms'</Description>
-          <Count>289</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'config-server'">
@@ -1590,7 +1598,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5584</Count>
+          <Count>5617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1894,7 +1902,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2690</Count>
+          <Count>2742</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2182,7 +2190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cms'</Description>
-          <Count>813</Count>
+          <Count>818</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'config-server'">
