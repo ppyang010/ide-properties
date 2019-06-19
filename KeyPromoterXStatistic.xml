@@ -265,6 +265,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OpenClassMsJobApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'OpenClassMsJobApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'OpenClassMsProxyApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -518,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11086</Count>
+          <Count>11096</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -630,7 +638,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6081</Count>
+          <Count>6082</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
