@@ -374,7 +374,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'cms'</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'config-server'">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cms'</Description>
-          <Count>835</Count>
+          <Count>838</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'config-server'">
