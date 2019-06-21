@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="解决" />
       <item value="广告位" />
       <item value="bulid" />
       <item value="mute" />
@@ -53,7 +54,6 @@
       <item value="备注" />
       <item value="不需要处理" />
       <item value="违规订单" />
-      <item value="specifying" />
     </histories>
     <option name="languageScores">
       <map>
