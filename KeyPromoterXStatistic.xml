@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11198</Count>
+          <Count>11211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -646,7 +646,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6148</Count>
+          <Count>6152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -766,7 +766,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>777</Count>
+          <Count>778</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
