@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="Ambiguous" />
       <item value="解决" />
       <item value="广告位" />
       <item value="bulid" />
@@ -53,12 +54,11 @@
       <item value="折扣" />
       <item value="备注" />
       <item value="不需要处理" />
-      <item value="违规订单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
