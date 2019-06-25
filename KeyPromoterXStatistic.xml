@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1828</Count>
+          <Count>1837</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'course-8001'</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'edge-app-8101'">
@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11343</Count>
+          <Count>11351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -646,7 +646,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6256</Count>
+          <Count>6264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -942,7 +942,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>323</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'course-8001'</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'edge-app-8101'">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5648</Count>
+          <Count>5658</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1814,7 +1814,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'⌘\' or '⌥⌘N'</ShortCut>
           <Description>Service</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
@@ -1926,7 +1926,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2762</Count>
+          <Count>2766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>302</Count>
+          <Count>306</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GidStarterApplication'">
@@ -2246,7 +2246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'course-8001'</Description>
-          <Count>72</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'edge-app-8101'">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'todman-8102'</Description>
-          <Count>147</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tomcat 7'">
@@ -2422,7 +2422,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -2534,7 +2534,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>139</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
