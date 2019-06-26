@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="Using" />
       <item value="当前" />
       <item value="specified" />
       <item value="CONFIRM RECEIPT" />
@@ -53,7 +54,6 @@
       <item value="custom" />
       <item value="Remaining" />
       <item value="剩余库存" />
-      <item value="折扣" />
     </histories>
     <option name="languageScores">
       <map>
