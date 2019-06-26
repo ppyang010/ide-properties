@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1838</Count>
+          <Count>1842</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -526,7 +526,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11368</Count>
+          <Count>11370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -542,7 +542,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -646,7 +646,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6280</Count>
+          <Count>6281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'course-8001'</Description>
-          <Count>98</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'edge-app-8101'">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'todman-8102'</Description>
-          <Count>183</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'tomcat 7'">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5672</Count>
+          <Count>5679</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1926,7 +1926,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2777</Count>
+          <Count>2779</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
