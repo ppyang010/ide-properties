@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="当前" />
       <item value="specified" />
       <item value="CONFIRM RECEIPT" />
       <item value="Ambiguous" />
@@ -16,7 +17,6 @@
       <item value="系列" />
       <item value="data" />
       <item value="journal" />
-      <item value="当前" />
       <item value="确认收货" />
       <item value="instead" />
       <item value="recognize" />
