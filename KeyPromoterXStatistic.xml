@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>154</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -406,7 +406,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'course-8001'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'edge-app-8101'">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>308</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GidStarterApplication'">
@@ -2254,7 +2254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'course-8001'</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'edge-app-8101'">
