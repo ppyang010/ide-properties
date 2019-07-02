@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="内部" />
       <item value="重复读" />
       <item value="Using" />
       <item value="当前" />
@@ -25,7 +26,6 @@
       <item value="condition" />
       <item value="表达式" />
       <item value="预先" />
-      <item value="内部" />
       <item value="applies" />
       <item value="Target" />
       <item value="metadata" />
