@@ -534,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11513</Count>
+          <Count>11516</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1158,7 +1158,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'GithubRepoPageProcessor'</Description>
-          <Count>14</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GroupAutoCompleteServiceImpl'">
