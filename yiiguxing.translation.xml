@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="ReadAbility algorithm" />
       <item value="conjunction with" />
       <item value="内部" />
       <item value="重复读" />
@@ -53,12 +54,11 @@
       <item value="remark" />
       <item value="自定义商品" />
       <item value="自定义" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
