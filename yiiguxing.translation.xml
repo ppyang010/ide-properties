@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="intro" />
       <item value="execute" />
       <item value="执行" />
       <item value="ReadAbility algorithm" />
@@ -53,7 +54,6 @@
       <item value="教程" />
       <item value="position" />
       <item value="manual" />
-      <item value="remark" />
     </histories>
     <option name="languageScores">
       <map>
