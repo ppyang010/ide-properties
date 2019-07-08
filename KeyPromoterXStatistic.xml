@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -118,7 +118,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1881</Count>
+          <Count>1884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LimitTest'">
@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SpringDemo-8000'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringDemo-8001'">
@@ -534,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11536</Count>
+          <Count>11539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -542,7 +542,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -550,7 +550,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>93</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -654,7 +654,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6428</Count>
+          <Count>6430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -958,7 +958,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -966,7 +966,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '2'">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>346</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
@@ -1409,6 +1409,14 @@
           <Count>624</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ZhihuHotPageProcessor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ZhihuHotPageProcessor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'bigtest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1646,7 +1654,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5770</Count>
+          <Count>5772</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1918,7 +1926,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -1950,7 +1958,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>2837</Count>
+          <Count>2839</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2054,7 +2062,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Edge-8100'</Description>
-          <Count>326</Count>
+          <Count>328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GidStarterApplication'">
@@ -2150,7 +2158,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemo-8000'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringDemoApplication (1)'">
