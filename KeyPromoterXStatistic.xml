@@ -1153,6 +1153,14 @@
           <Count>355</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FileTestController'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FileTestController'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GIDTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
