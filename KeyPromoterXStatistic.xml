@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1905</Count>
+          <Count>1907</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SpringDemo-8000'</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringDemo-8001'">
@@ -782,7 +782,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>291</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -2206,7 +2206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemo-8000'</Description>
-          <Count>18</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringDemoApplication (1)'">
