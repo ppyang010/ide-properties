@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Class Hierarchy" />
-    <option name="defaultScopeName" value="Class Hierarchy" />
-    <option name="SEARCH_SCOPE" value="Class Hierarchy" />
-    <recentFileMasks>
-      <mask>*.xnl</mask>
-      <mask>*</mask>
-      <mask>*.v m</mask>
-      <mask>*.jaa</mask>
-      <mask>``</mask>
-      <mask>`</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
-      <mask>.x'm</mask>
-      <mask>xml</mask>
-      <mask>.xml</mask>
-      <mask>*.x'm</mask>
-      <mask>*.xn</mask>
-      <mask>*.XML</mask>
-      <mask>*.XM</mask>
-      <mask>*.X</mask>
-      <mask>*.j'a</mask>
-      <mask>*.vc</mask>
-      <mask>*.v</mask>
-      <mask>*.vm</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

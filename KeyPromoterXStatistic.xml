@@ -94,7 +94,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1904</Count>
+          <Count>1905</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SpringDemo-8000'</Description>
-          <Count>12</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SpringDemo-8001'">
@@ -534,7 +534,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11665</Count>
+          <Count>11670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -542,7 +542,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>102</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -758,7 +758,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>152</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Project Window">
@@ -966,7 +966,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>82</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -2198,7 +2198,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SpringDemo-8000'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpringDemoApplication (1)'">
