@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="头像" />
       <item value="prohibited" />
       <item value="spring" />
@@ -44,7 +45,6 @@
       <item value="depend" />
       <item value="依赖" />
       <item value="Introspector" />
-      <item value="前缀" />
       <item value="剩余" />
       <item value="blows up" />
       <item value="provided" />
