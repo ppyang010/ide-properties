@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头像" />
       <item value="prohibited" />
       <item value="spring" />
       <item value="系统" />
       <item value="post" />
       <item value="文章" />
-      <item value="头像" />
       <item value="intro" />
       <item value="execute" />
       <item value="执行" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
