@@ -1718,7 +1718,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>364</Count>
+          <Count>365</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
