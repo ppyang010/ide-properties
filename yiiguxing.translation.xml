@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过期" />
       <item value="提醒" />
       <item value="用途" />
       <item value="使用场景" />
-      <item value="过期" />
       <item value="即将过期" />
       <item value="前缀" />
       <item value="头像" />
