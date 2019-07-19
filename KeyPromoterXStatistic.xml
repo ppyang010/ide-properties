@@ -542,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11764</Count>
+          <Count>11766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -662,7 +662,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>6566</Count>
+          <Count>6567</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
