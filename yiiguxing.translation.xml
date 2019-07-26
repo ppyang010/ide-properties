@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异步" />
       <item value="Annual" />
       <item value="修复" />
       <item value="describe" />
@@ -50,7 +51,6 @@
       <item value="data" />
       <item value="journal" />
       <item value="确认收货" />
-      <item value="instead" />
     </histories>
     <option name="languageScores">
       <map>
