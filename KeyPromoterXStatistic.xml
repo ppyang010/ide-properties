@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'DemoMutilDatasourceApplication (1)'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoMutilDatasourceApplication'">
@@ -2191,6 +2191,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Consumer'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoMutilDatasourceApplication (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DemoMutilDatasourceApplication (1)'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoMutilDatasourceApplication'">
