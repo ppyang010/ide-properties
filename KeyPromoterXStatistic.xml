@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1951</Count>
+          <Count>1952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -223,6 +223,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Application'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DemoMutilDatasourceApplication (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DemoMutilDatasourceApplication (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoMutilDatasourceApplication'">
@@ -558,7 +566,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12036</Count>
+          <Count>12040</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
