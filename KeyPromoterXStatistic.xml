@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1952</Count>
+          <Count>1954</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -558,7 +558,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'user-8002'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -1182,6 +1182,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CourseUtil'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CreateTests.create'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CreateTests.create'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2646,7 +2654,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'user-8002'</Description>
-          <Count>32</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -2798,7 +2806,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
