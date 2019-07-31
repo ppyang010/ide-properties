@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1954</Count>
+          <Count>1955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Edge-8100'</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'InternetProxy-8311'">
@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12088</Count>
+          <Count>12090</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Edge-8100'</Description>
-          <Count>382</Count>
+          <Count>384</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'EurekaApplication'">
