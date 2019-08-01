@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check" />
+      <item value="校验" />
       <item value="Disruptor" />
       <item value="Unused declared dependencies found" />
       <item value="Used undeclared dependencies found" />
@@ -49,12 +51,10 @@
       <item value="CONFIRM RECEIPT" />
       <item value="Ambiguous" />
       <item value="解决" />
-      <item value="广告位" />
-      <item value="bulid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
