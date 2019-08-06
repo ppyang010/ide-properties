@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thumb" />
+      <item value="brief" />
       <item value="check" />
       <item value="校验" />
       <item value="Disruptor" />
@@ -49,13 +51,11 @@
       <item value="当前" />
       <item value="specified" />
       <item value="CONFIRM RECEIPT" />
-      <item value="Ambiguous" />
-      <item value="解决" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
