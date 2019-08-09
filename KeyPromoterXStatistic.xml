@@ -2222,7 +2222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '7-2'</Description>
-          <Count>115</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '71'">
