@@ -102,7 +102,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>184</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -574,7 +574,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12540</Count>
+          <Count>12557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -694,7 +694,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7321</Count>
+          <Count>7333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -1583,6 +1583,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Unnamed'</Description>
           <Count>624</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'VCoinManager'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VCoinManager'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ZhihuHotPageProcessor'">
@@ -2174,7 +2182,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>155</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -2814,7 +2822,7 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
@@ -2822,7 +2830,7 @@
           <IdeaActionID>$TranslateAndReplaceAction</IdeaActionID>
           <ShortCut>'⌃⌘O'</ShortCut>
           <Description>Translate and Replace...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
