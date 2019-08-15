@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易记录" />
+      <item value="交易记录'" />
       <item value="处理" />
       <item value="Negative" />
       <item value="驼峰" />
@@ -49,8 +51,6 @@
       <item value="头像" />
       <item value="prohibited" />
       <item value="spring" />
-      <item value="系统" />
-      <item value="post" />
     </histories>
     <option name="languageScores">
       <map>
