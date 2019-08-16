@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="执行" />
+      <item value="moment" />
+      <item value="时刻" />
+      <item value="过期时间" />
       <item value="floor" />
       <item value="星期几" />
       <item value="兑换" />
@@ -46,16 +51,11 @@
       <item value="ceil" />
       <item value="最近购买" />
       <item value="最近" />
-      <item value="过期" />
-      <item value="提醒" />
-      <item value="用途" />
-      <item value="使用场景" />
-      <item value="即将过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
