@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用信息" />
       <item value="resolve" />
       <item value="解决" />
       <item value="Expiration" />
@@ -50,12 +51,11 @@
       <item value="选择" />
       <item value="endpoints" />
       <item value="时长" />
-      <item value="handler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
