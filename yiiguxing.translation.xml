@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="汇率" />
+      <item value="huilv" />
+      <item value="比例" />
       <item value="上限" />
       <item value="amount" />
       <item value="剩余额度" />
@@ -48,14 +51,11 @@
       <item value="Used undeclared dependencies found" />
       <item value="减少" />
       <item value="减库存" />
-      <item value="脚本" />
-      <item value="商品" />
-      <item value="异步" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ALBANIAN" value="1" />
       </map>
