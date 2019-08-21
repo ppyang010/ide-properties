@@ -38,7 +38,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'⌘W'</ShortCut>
           <Description>Close</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2000</Count>
+          <Count>2009</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -409,6 +409,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'VCoinControllerTest.exchangeVCoin'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'VCoinControllerTest.exchangeVCoin'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'WebServicesController'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -582,7 +590,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12748</Count>
+          <Count>12763</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -598,7 +606,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -702,7 +710,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7430</Count>
+          <Count>7431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -822,7 +830,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>809</Count>
+          <Count>811</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1601,6 +1609,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VCoinControllerTest.exchangeVCoin'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VCoinControllerTest.exchangeVCoin'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'VCoinControllerTest.transactionRecord'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VCoinControllerTest.transactionRecord'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VCoinManager'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1870,7 +1894,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'user-8002'</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -1902,7 +1926,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6204</Count>
+          <Count>6232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2118,7 +2142,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'⌘\' or '⌥⌘N'</ShortCut>
           <Description>Service</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
@@ -2230,7 +2254,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3104</Count>
+          <Count>3121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2577,6 +2601,14 @@
           <Count>1467</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'VCoinControllerTest.exchangeVCoin'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VCoinControllerTest.exchangeVCoin'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'bigtest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2790,7 +2822,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'user-8002'</Description>
-          <Count>39</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -2806,7 +2838,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>191</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
