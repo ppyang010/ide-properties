@@ -401,6 +401,14 @@
           <Count>325</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'VCoinControllerTest.balance'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'VCoinControllerTest.balance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'WebServicesController'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1585,6 +1593,14 @@
           <Count>624</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VCoinControllerTest.balance'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VCoinControllerTest.balance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VCoinManager'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1886,7 +1902,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6203</Count>
+          <Count>6204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2102,7 +2118,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'⌘\' or '⌥⌘N'</ShortCut>
           <Description>Service</Description>
-          <Count>119</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
