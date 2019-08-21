@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2009</Count>
+          <Count>2011</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -401,11 +401,27 @@
           <Count>325</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'VCoinControllerTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'VCoinControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'VCoinControllerTest.balance'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'VCoinControllerTest.balance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'VCoinControllerTest.exchangeRanking'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'VCoinControllerTest.exchangeRanking'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -503,6 +519,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'eureka0'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'exchangeRanking()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'exchangeRanking()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'gateway'">
@@ -710,7 +734,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7431</Count>
+          <Count>7432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1609,12 +1633,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'VCoinControllerTest.exchangeRanking'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'VCoinControllerTest.exchangeRanking'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'VCoinControllerTest.exchangeVCoin'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VCoinControllerTest.exchangeVCoin'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'VCoinControllerTest.transactionRecord'">
@@ -1926,7 +1958,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6232</Count>
+          <Count>6240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2254,7 +2286,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3121</Count>
+          <Count>3126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
