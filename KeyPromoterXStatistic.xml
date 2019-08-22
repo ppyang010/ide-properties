@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2017</Count>
+          <Count>2019</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12779</Count>
+          <Count>12784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1393,6 +1393,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MyClassControllerTest.testownCourseList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MyClassControllerTest.testownCourseList'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OpenClassMsActivityApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1974,7 +1982,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6244</Count>
+          <Count>6247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2302,7 +2310,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3128</Count>
+          <Count>3130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
