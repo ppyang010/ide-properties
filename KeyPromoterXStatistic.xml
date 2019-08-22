@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2027</Count>
+          <Count>2030</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -630,7 +630,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12807</Count>
+          <Count>12814</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -750,7 +750,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7471</Count>
+          <Count>7472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1441,6 +1441,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OrderPayControllerTest.getOrderChargeInfo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrderPayControllerTest.getOrderChargeInfo'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderPayControllerTest.testGetOrderChargeInfo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrderPayControllerTest.testGetOrderChargeInfo'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PlatformApplicationTests.contextLoads'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1990,7 +2006,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6314</Count>
+          <Count>6322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2551,6 +2567,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OpenclassMsGatewayApplication'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderPayControllerTest.getOrderChargeInfo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OrderPayControllerTest.getOrderChargeInfo'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'QueueProducerConsumerDemo'">
