@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2012</Count>
+          <Count>2016</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -295,6 +295,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'LinkedCaseInsensitiveMapTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MyClassControllerTest.testMenuBarList'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'MyClassControllerTest.testMenuBarList'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OpenClassMsActivityApplication'">
@@ -614,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12772</Count>
+          <Count>12776</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -622,7 +630,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -734,7 +742,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7437</Count>
+          <Count>7441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -838,7 +846,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'⌘,'</ShortCut>
           <Description>Preferences...</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Previous Project Window">
@@ -854,7 +862,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>811</Count>
+          <Count>812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1078,7 +1086,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>101</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -2198,7 +2206,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Dependencies...</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
@@ -2870,7 +2878,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>194</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
