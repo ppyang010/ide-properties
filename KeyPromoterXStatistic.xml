@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'MyClassControllerTest.testMenuBarList'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OpenClassMsActivityApplication'">
@@ -622,7 +622,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12776</Count>
+          <Count>12779</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -742,7 +742,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>7441</Count>
+          <Count>7445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1385,6 +1385,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MyClassControllerTest.testMenuBarList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MyClassControllerTest.testMenuBarList'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OpenClassMsActivityApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1966,7 +1974,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6242</Count>
+          <Count>6244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2294,7 +2302,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3126</Count>
+          <Count>3128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
