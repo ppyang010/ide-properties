@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2030</Count>
+          <Count>2031</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -630,7 +630,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12828</Count>
+          <Count>12829</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VCoinControllerTest.dCoinTransactionRecord'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'VCoinControllerTest.exchangeRanking'">
@@ -2014,7 +2014,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6327</Count>
+          <Count>6328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2342,7 +2342,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3184</Count>
+          <Count>3186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2710,7 +2710,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'VCoinControllerTest.dCoinTransactionRecord'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'VCoinControllerTest.exchangeVCoin'">
