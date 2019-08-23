@@ -118,7 +118,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2034</Count>
+          <Count>2040</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'MyClassControllerTest.testownCourseList'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'OpenClassMsActivityApplication'">
@@ -438,7 +438,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'VCoinControllerTest.dCoinTransactionRecord'</Description>
-          <Count>4</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'VCoinControllerTest.exchangeRanking'">
@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12832</Count>
+          <Count>12841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -654,7 +654,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>136</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VCoinControllerTest.dCoinTransactionRecord'</Description>
-          <Count>6</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'VCoinControllerTest.exchangeRanking'">
@@ -2022,7 +2022,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6335</Count>
+          <Count>6347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2246,7 +2246,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies Popup...">
@@ -2350,7 +2350,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3203</Count>
+          <Count>3231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2527,6 +2527,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'LimitTest'</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MyClassControllerTest.testownCourseList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MyClassControllerTest.testownCourseList'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'OpenClassMsActivityApplication'">
@@ -2718,7 +2726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'VCoinControllerTest.dCoinTransactionRecord'</Description>
-          <Count>9</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'VCoinControllerTest.exchangeVCoin'">
