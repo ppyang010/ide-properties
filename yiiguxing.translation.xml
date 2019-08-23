@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前" />
+      <item value="秒" />
       <item value="menu Bar List" />
       <item value="最小" />
       <item value="汇率" />
@@ -49,8 +51,6 @@
       <item value="check" />
       <item value="校验" />
       <item value="Disruptor" />
-      <item value="Unused declared dependencies found" />
-      <item value="Used undeclared dependencies found" />
     </histories>
     <option name="languageScores">
       <map>
