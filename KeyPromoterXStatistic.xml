@@ -630,7 +630,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12826</Count>
+          <Count>12827</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -2006,7 +2006,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>6324</Count>
+          <Count>6326</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2334,7 +2334,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>3182</Count>
+          <Count>3183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1'">
@@ -2694,6 +2694,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'VCoinControllerTest.balance'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'VCoinControllerTest.dCoinTransactionRecord'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'VCoinControllerTest.dCoinTransactionRecord'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
