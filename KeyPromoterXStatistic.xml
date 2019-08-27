@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>2044</Count>
+          <Count>2045</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '7-2'">
@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12850</Count>
+          <Count>12852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'VCoinControllerTest.transactionRecord'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'VCoinManager'">
